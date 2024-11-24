@@ -1,0 +1,8 @@
+.navbar{
+    width: 100vw;
+    display: flex;
+    background-color:#1f1f2e;
+    justify-content: space-around;
+    position: fixed;
+    border: 0.09px solid rgba(0, 0, 0, 0.295)
+}

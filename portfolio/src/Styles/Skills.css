@@ -1,0 +1,265 @@
+
+  
+.skills{
+  background-color: #1f1f2e;
+  color: #d4d4dc; 
+  height: 650px;
+}
+.both{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sql{
+  padding-left: 10px;
+}
+.node{
+  display: flex   ;
+  padding-left: 10px;
+  
+}
+
+#hl{
+  margin-left: 700px;
+  font-size: bold;
+  
+}
+p{
+  padding-left: 320px;
+}
+#hi{
+  padding-left: 200px;
+}
+
+  .frontend img{
+    width: 50px;
+    height: 40px;
+  }
+  h2{
+    color:gray;
+  }
+
+  .react,.html,.redux,.html,.css,.js,.bootstrap,.material{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  
+  
+
+
+  .react{
+    border: 1px solid white;
+    width: 190px;
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 2px;
+    
+  }
+  .redux{
+    border: 1px solid white;
+    width: 190px;
+    align-items: center;
+    border-radius: 10px;
+    
+
+  }
+  .html{
+    border: 1px solid white;
+    width: 190px;
+    align-items: center;
+    border-radius: 10px;
+  }
+.css{
+
+  padding-left: 7px;
+  border: 1px solid white;
+  width: 190px;
+  height: 70px;
+  align-items: center;
+  border-radius: 10px;
+}
+.js{
+  border: 1px solid white;
+  padding-left: 5px;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+}
+.bootstrap{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+
+}
+.material{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+  padding-left: 5px;
+  
+  
+}
+.material:hover{
+  border: 0px ;
+  
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+
+.react:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.html:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.css:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.js:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.redux:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.bootstrap:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.frontend{
+  border: 1px solid blueviolet;
+  box-shadow: 0px 6px 12px blueviolet;
+  align-items: center;
+  justify-content: center;
+  width: 550px;
+  height: 450px;
+  padding-left: 20px;
+  margin-left: 40px;
+  border-radius: 20px;
+
+}
+
+   .main{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 20px;
+   }
+
+.material{
+margin-left: 150px;
+}
+
+
+.backend img{
+  width: 50px;
+  height: 40px;
+
+}
+.node,.mongo,.java,.express,.sql{
+  display: flex;
+  justify-content: space-evenly;
+}
+.java{
+  display: flex;
+  
+}
+
+.express{
+  display: flex;
+  
+}
+.node{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+}
+.java{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+}
+.sql{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+ 
+}
+.express{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+}
+.mongo{
+  border: 1px solid white;
+  width: 190px;
+  align-items: center;
+  border-radius: 10px;
+
+}
+.mongo:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.java:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.sql:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.node:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+.express:hover{
+  border: 0px ;
+  transform: scale(1.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 1px  1px 1px 2px red;
+}
+
+.backend{
+  border: 1px solid blueviolet;
+  box-shadow: 0px 6px 12px blueviolet;
+  align-items: center;
+  justify-content: center;
+  width: 550px;
+  height: 450px;
+  padding-left: 20px;
+  margin-left: 40px;
+  border-radius: 20px;
+}
+

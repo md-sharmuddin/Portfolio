@@ -1,0 +1,15 @@
+.items {
+    
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    
+}
+.items a{
+    color: white
+}
+
+.items{
+    
+}
